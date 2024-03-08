@@ -1,6 +1,8 @@
 .map{
     text-align: center;
     margin: auto;
+    height: auto;
+    width: fit-content;
 }
 .navbar {
     text-align: center;
