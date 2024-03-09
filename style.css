@@ -24,3 +24,16 @@
 .navbar-toggler{
     background-color: aliceblue;
 }
+
+.box {
+    background-color: rgb(13, 13, 14);
+    border-radius: 20px;
+    grid-column: 1 / span 2;
+    grid-row: 1;
+    width: auto;
+    height: auto;
+    margin: auto;
+    border-bottom: 5px solid rgb(133, 132, 130);
+    color: aliceblue;
+    padding: 10px;
+  }
