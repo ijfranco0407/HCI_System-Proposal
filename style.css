@@ -17,6 +17,13 @@
     background-color: rgb(25, 22, 235);
     color: white;
     font-weight: bold;
+    width: 10%;
+    margin: 0;
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
 }
 .register{
     background-color: aliceblue;
@@ -36,4 +43,17 @@
     border-bottom: 5px solid rgb(133, 132, 130);
     color: aliceblue;
     padding: 10px;
+  }
+  .registerbutton{
+    background-color: rgb(25, 22, 235);
+    color: white;
+    font-weight: bold;
+    max-width: 20%;
+    
+  margin: 0;
+  position: absolute;
+  top: 105%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
   }
