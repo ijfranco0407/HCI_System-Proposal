@@ -13,5 +13,35 @@
         <div class="container-fluid">
           <a class="navbar-brand" href="index.html"><img src="smcclogo.png" alt="smcclogo" height="105"></a>
     </nav>
+    <br>
+    <div class="register container-sm" ">
+       
+            <h2 style="text-align: center;">Create an Account</h2>
+            <label for="">First Name:</label>
+            <input type="text" name="fame" id="fName" placeholder="Enter First Name">
+            <label for="">Last Name:</label>
+            <input type="text" name="lName" id="lName" placeholder="Enter Last Name">
+            <label for="">Email Address:</label>
+            <input type="text" name="email" id="email" placeholder="Enter Email Address">
+            <form style="text-align: left;" action="/action_page.php">
+                <label for="birthday">Birthday:</label>
+                <input type="date" id="birthday" name="birthday">
+                <input type="submit">
+              </form>
+              <p style="text-align: left;">Gender : <br>
+        <label for="male">Male</label>
+        <input type="radio" name="gender" id="male" value="male" checked> <br>
+        <label for="female">Female</label>
+        <input type="radio" name="gender" id="female" value="female">
+    </p>
+            <label for="">User Name:</label>
+            <input type="text" name="userName" id="userName" placeholder="Enter prefered User Name">
+            <label for="">Password:</label>
+            <input type="text" name="firstPass" id="firstPass" placeholder="minimum of 8 characters">
+            <label for="">Confirm Password:</label>
+            <input type="text" name="secondPass" id="secondPass" placeholder="Re-enter your password">
+            <br>
+        <button class="loginbutton" onclick="register()">Register Now</button>
+    </div>
 </body>
 </html>

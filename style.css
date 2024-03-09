@@ -5,3 +5,15 @@
 .navbar {
     text-align: center;
 }
+.register{
+    display: grid;
+    row-gap: 5px;
+}
+.login{
+    display: grid;
+    row-gap: 5px;
+}
+.loginbutton{
+    background-color: rgb(25, 22, 235);
+    color: white;
+}
