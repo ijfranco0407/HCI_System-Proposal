@@ -17,7 +17,6 @@
     background-color: rgb(25, 22, 235);
     color: white;
     font-weight: bold;
-    width: 10%;
     margin: 0;
     position: absolute;
     top: 70%;
@@ -52,7 +51,7 @@
     
   margin: 0;
   position: absolute;
-  top: 105%;
+  top: 115%;
   left: 50%;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
