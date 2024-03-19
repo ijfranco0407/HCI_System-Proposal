@@ -29,6 +29,7 @@
     left: 50%;
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
+    
 }
 .register{
     background-color: aliceblue;
@@ -83,4 +84,9 @@
     letter-spacing: 1px;
     cursor: pointer;
     transition: 0.4s;
+  }
+  
+  .p-style {
+    line-height: 5;
+    text-align: center;
   }
