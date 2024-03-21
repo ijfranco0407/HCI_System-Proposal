@@ -21,15 +21,14 @@
 }
 .loginbutton{
     background-color: rgb(25, 22, 235);
-    color: white;
+    color: rgb(243, 239, 239);
     font-weight: bold;
     margin: 0;
     position: absolute;
-    top: 70%;
+    top: 90%;
     left: 50%;
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
-    
 }
 .register{
     background-color: aliceblue;
@@ -57,7 +56,7 @@
     max-width: 20%;
     margin: 0;
     position: absolute;
-    top: 115%;
+    top: 110%;
     left: 50%;
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -120%);
@@ -74,19 +73,15 @@
     border-radius: 12px;
     box-shadow: 0 5px 10px rgba(0,0,0,0.3);
     display: grid;
+    row-gap: 5px;
     
   }
   input {
-    color: #fff;
+    color: #111111;
     background: #ffffff;
     font-size: 1rem;
     font-weight: 400;
     letter-spacing: 1px;
     cursor: pointer;
     transition: 0.4s;
-  }
-  
-  .p-style {
-    line-height: 5;
-    text-align: center;
   }
