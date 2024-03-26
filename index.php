@@ -27,13 +27,13 @@
               <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                   <li class="nav-item">
-                    <a style="color: aliceblue; text-decoration: none;" class="nav-log active" aria-current="page" href="login.html">Log-in</a>
+                    <a style="color: aliceblue; text-decoration: none;" class="nav-log active" aria-current="page" href="login.php">Log-in</a>
                   </li>
                   <li>
                     |||
                   </li>
                   <li class="nav-item">
-                    <a style="color: aliceblue; text-decoration: none;" class="nav-reg" href="register.html"> Register </a>
+                    <a style="color: aliceblue; text-decoration: none;" class="nav-reg" href="register.php"> Register </a>
                   </li>
                 </ul>
               </div>
