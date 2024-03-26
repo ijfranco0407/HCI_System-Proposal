@@ -7,11 +7,11 @@
     <link rel="stylesheet" href="Register.css">
 </head>
 <body>
-    <h1>Please Register</h1>
+    <h1>Registration</h1>
     
     
     <fieldset style="margin-top: 20px">
-        <legend>This form uses POST request</legend>
+        <legend>Fill-out this form to Register</legend>
         <form action="redirect.php" method="POST">
         <table>
             <tr>
