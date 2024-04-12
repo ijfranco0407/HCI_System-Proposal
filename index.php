@@ -33,7 +33,7 @@
                     |||
                   </li>
                   <li class="nav-item">
-                    <a style="color: aliceblue; text-decoration: none;" class="nav-reg" href="register.php"> Register </a>
+                    <a style="color: aliceblue; text-decoration: none;" class="nav-reg" href="./register.php"> Register </a>
                   </li>
                 </ul>
               </div>
